@@ -31,6 +31,7 @@ h1 {
 
 button {
   border-color: #f9faf8;
+  cursor: pointer;
 }
 
 .header-nav {
